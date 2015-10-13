@@ -1,0 +1,30 @@
+header {
+    height: 200px;
+    width: 100%;
+    /*margin: 0 auto;*/
+    background-color: #3c3b3b;
+    clear: both;
+    
+}
+
+.left {
+    width: 200px;
+    height: 700px;
+    float: left;
+    background-color: darkgray;
+}
+
+.right {
+    width: 200px;
+    height: 700px;
+    float: right;
+    background-color: darkgray;
+}
+
+footer {
+   height: 200px;
+   width: autopx;
+   margin-top: 500px;
+   background-color: black;
+ 
+}

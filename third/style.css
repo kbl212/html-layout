@@ -1,0 +1,63 @@
+div {
+    width: 100%;
+}
+
+.box {
+    width: 85px;
+    height: 85px;
+    margin-left: 25px;
+    background-color: blue;
+    position: absolute;
+    top:7px;
+    
+}
+
+.top {
+    background-color: #d8d5d5;
+    height: 100px;
+    position: relative;
+}
+
+.main {
+   height: 200px;
+   position: relative;
+}
+
+.main p {
+/*    margin-left: 30px;
+    margin-right: 30px; */
+    font-size: 1 em;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 20px;
+    font-family: sans-serif;
+    position: absolute;
+    top:0px;
+    
+}
+
+.one {
+    height: 100px;
+    background-color: #6582e2;
+}
+
+.two {
+    height: 100px;
+    background-color: seagreen;
+}
+
+.three {
+    height: 100px;
+    background-color: greenyellow;
+}
+
+.four {
+    height: 100px;
+    background-color: goldenrod;
+}
